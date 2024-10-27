@@ -2,6 +2,3 @@ flask
 torch
 transformers
 flask_cors
-python-dotenv
-gunicorn
-peft
